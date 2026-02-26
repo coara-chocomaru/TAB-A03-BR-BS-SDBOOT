@@ -5,7 +5,7 @@
 1. まず最初に下記URLからファイルをダウンロードして下さい。
 
 ```
-https://REPLACE_WITH_DOWNLOAD_URL
+https://github.com/coara-chocomaru/TAB-A03-BR-BS-SDBOOT/releases/download/TAB-A03-BR/TAB-A03-BR-02.04.000_SU+gapps.zip
 ```
 
 2. ダウンロードした ZIP を展開します。

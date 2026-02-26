@@ -62,16 +62,16 @@ pack_menu.bat
 
 ---
 
-## 任意の追加作業（永続 su を SD無しで得る方法、上級者向け）
-以下は高度な操作です。実行すると本体のシステムを書き換え、データ消失・起動不能など重大なリスクがあるため、**必ず自己責任で**行ってください。
+## 任意の追加作業（永続suを SD無しで得る方法）
+実行すると本体のシステムを書き換え、データ消失・起動不能など重大なリスクがあるため、**必ず自己責任で**行ってください。
 
 1. SD を挿入した状態で下記のように `mmcblk` のパーティションを本体にコピーします
 
 ```
 /dev/block/mmcblk1p4  -> /dev/block/mmcblk0p14
 /dev/block/mmcblk1p6  -> /dev/block/mmcblk0p16
-# dd if=/dev/block/mmcblk1p4 of=/dev/block/mmcblk0p14 bs=4096
-# dd if=/dev/block/mmcblk1p6 of=/dev/block/mmcblk0p16 bs=4096
+# dd if=/dev/block/mmcblk1p4 of=/dev/block/mmcblk0p14
+# dd if=/dev/block/mmcblk1p6 of=/dev/block/mmcblk0p16
 ```
 
 2. dd が完了したら SD を抜き、端末を再起動します。

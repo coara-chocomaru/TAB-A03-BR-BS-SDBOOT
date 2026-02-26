@@ -1,0 +1,2 @@
+TAB-A03-BR or BS用のSDBOOTです。
+zipを展開してpack_menu.batを実行してimgが作成できます

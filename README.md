@@ -2,7 +2,7 @@
 ---
 
 ## 事前準備
-1. 下記URLからファイルをダウンロードして下さい。
+1. まず最初に下記URLからファイルをダウンロードして下さい。
 
 ```
 https://REPLACE_WITH_DOWNLOAD_URL
@@ -40,13 +40,13 @@ pack_menu.bat
 
 ![進捗表示の例](https://raw.githubusercontent.com/coara-chocomaru/TAB-A03-BR-BS-SDBOOT/refs/heads/img/02.JPG)
 
-5. 完了したら、任意のキーを押すとバッチが終了します。
+5. 完了したら、任意のキーを押してバッチを終了します
 
 ![終了時の画面](https://raw.githubusercontent.com/coara-chocomaru/TAB-A03-BR-BS-SDBOOT/refs/heads/img/03.JPG)
 
 ---
 
-## 生成物の確認
+## imgの確認
 展開したフォルダ内に、選択したオプションに応じた `.img` ファイルが作成されているか確認してください。
 
 ![生成されたIMG](https://raw.githubusercontent.com/coara-chocomaru/TAB-A03-BR-BS-SDBOOT/refs/heads/img/04.JPG)
@@ -58,7 +58,7 @@ pack_menu.bat
 
 2. 書き込み済みの SD を本体（BR）に差し込み、電源を入れると `sdboot` が実行されます。
 
-3. 起動には通常より長めの時間がかかることがあります。数10分ほど待ってください。
+3. 起動には通常より長めの時間がかかることがあります。10分ほど待ってください。
 
 ---
 

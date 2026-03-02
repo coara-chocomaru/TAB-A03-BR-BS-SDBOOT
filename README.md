@@ -8,7 +8,7 @@
 
 ```
 https://github.com/coara-chocomaru/TAB-A03-BR-BS-SDBOOT/releases/download/TAB-A03-BR/TAB-A03-BR-02.04.000_SU+gapps.zip
-https://github.com/coara-chocomaru/TAB-A03-BR-BS-SDBOOT/releases/tag/TAB-A03-BS
+https://github.com/coara-chocomaru/TAB-A03-BR-BS-SDBOOT/releases/download/TAB-A03-BS/TAB-A03-BS-01.16.000_SU+gapps.zip
 ```
 
 2. ダウンロードした ZIP を展開します。

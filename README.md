@@ -3,10 +3,12 @@
 
 ## 事前準備
 0. windowsのPC
-1. まず最初に下記URLからファイルをダウンロードして下さい。
+1. まず最初に下記URL端末にあったimgをダウンロードして下さい。
+2. BR or BSを確認
 
 ```
 https://github.com/coara-chocomaru/TAB-A03-BR-BS-SDBOOT/releases/download/TAB-A03-BR/TAB-A03-BR-02.04.000_SU+gapps.zip
+https://github.com/coara-chocomaru/TAB-A03-BR-BS-SDBOOT/releases/tag/TAB-A03-BS
 ```
 
 2. ダウンロードした ZIP を展開します。
@@ -84,6 +86,10 @@ pack_menu.bat
 
 ## トラブルシューティング
 - 書き込みに失敗する・起動しない場合は別の SD カードや書き込みソフトで再試行してください。
+- または下記↓からver修正sdbootのimgをsdカードに焼いてから手動でリカバリを起動して下さい
+- https://github.com/coara-chocomaru/TAB-A03-BR-BS-SDBOOT/releases/tag/%E4%BF%AE%E5%BE%A9%E7%94%A8
+- recoveryはホームボタンを押しながら起動して電源ボタンからは指を離して
+- 画面が変わったら一瞬ホームボタンから指を離して再度押ホームボタンを押すと起動します。
 
 ---
 
